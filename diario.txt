@@ -3,3 +3,6 @@ Día 1: Explorando Git
 
 Día 2: Aprendiendo sobre commits.
 	Los commits suelen ser en inglés e imperativos.
+
+Día 3: Descubriendo ramas.
+	En git hay viajes temporales y además multiversos.
