@@ -1,2 +1,5 @@
 Día 1: Explorando Git
 	Hoy fue un buen día.
+
+Día 2: Aprendiendo sobre commits.
+	Los commits suelen ser en inglés e imperativos.
