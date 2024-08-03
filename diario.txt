@@ -1,4 +1,4 @@
-Día 1: Explorando Git
+Día 1: Explorando Git.
 	Hoy fue un buen día.
 
 Día 2: Aprendiendo sobre commits.
@@ -6,3 +6,6 @@ Día 2: Aprendiendo sobre commits.
 
 Día 3: Descubriendo ramas.
 	En git hay viajes temporales y además multiversos.
+
+Día 4: Retrocediendo en el tiempo con checkout.
+	Vamos a poner a prueba los viajes temporales.
